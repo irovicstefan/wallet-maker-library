@@ -21,5 +21,21 @@
         /// Code128
         /// </summary>
         PKBarcodeFormatCode128,
+        /// <summary>
+        /// Code 39
+        /// </summary>
+        PKBarcodeFormatCode39 = 5,
+        /// <summary>
+        /// Codabar
+        /// </summary>
+        PKBarcodeFormatCodabar = 6,
+        /// <summary>
+        /// EAN-13
+        /// </summary>
+        PKBarcodeFormatEAN13 = 7,
+        /// <summary>
+        /// Interleaved 2 of 5
+        /// </summary>
+        PKBarcodeFormatI2of5 = 8,
     }
 }
